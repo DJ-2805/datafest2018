@@ -1,0 +1,9 @@
+* 1 Idea: Unemployment
+** if by state, month by month data
+** if by county, year by year
+** if by city, year by year
+* Employee Points
+** more jobs as year progresses
+* Entry Level Jobs
+** experienced requried vs "entry level version"
+** 

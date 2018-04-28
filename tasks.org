@@ -1,0 +1,9 @@
+* Team Members
+** Teia
+** Christian
+*** clean the data
+** Saul
+*** tablau visualization
+** Kenny
+*** 
+** David
