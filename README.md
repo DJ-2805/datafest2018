@@ -6,6 +6,7 @@ The team was made up of Kenny Lov, Christian Corrales, Saul Argueta, Teia Noel, 
 - Kenny Lov, Team Lead
   - analyzed data via Python and R
   - cleaned up data
+  - grouped job title categories and aggregated sup/dem ratio for each job title 
 - Christian Corrales, Data Analyist
   - analyzed data via R
   - cleaned up data
