@@ -1,39 +1,38 @@
-* Team Members
-** Teia
-** Christian
-*** clean the data
-** Saul
-*** tablau visualization
-** Kenny
-** David
-*** least demand, ex, ratio
-**** meddr HI, 5, 0.279
-**** science MT, 0, .125
-**** socialscience OR, 20,
-**** hr GU, 0
-**** hospitality OK, 3.5
-*** most demand
-**** engchem MS, 1, 
-**** warehouse DE, 2.77, 
-**** customor PR, 3
-**** engchem ME, 1
-**** agriculture CT, 4
-*** least supply
-**** engchem MS, 1, .003
-**** engchem ME, 1, .007
-**** agriculture CT, 4, .007
-**** medinfo DE, 3, .008
-**** socialscience NJ, 1, .009
-*** most supply
-**** management CA, 4.26, 138.534
-**** techsoftware CA, 4.65, 123.000
-**** management TX, 4.13, 80.250
-**** mednurse CA, 2.46, 98.86
-**** sales CA, 2.94, 84.613
-*** Conclusions
-**** majoring in chem eng in MS, ME will lead to a lot of competition and little job security
-**** agriculture in CT is also competitive
-**** its easier to find a job in tech,nursing, management, or sales with exp
-***** same for management in TX
-**** little competition for entry level science jobs in MT
-**** little competition for doctor postion with exp in HI
+* Data Results
+** Beta Estimate
+*** (10)^(-16)
+** R^2
+*** 0.55
+* Data Results
+** least demand, ex, ratio
+*** meddr HI, 5, 0.279
+*** science MT, 0, .125
+*** socialscience OR, 20,
+*** hr GU, 0
+*** hospitality OK, 3.5
+** most demand
+*** engchem MS, 1, 
+*** warehouse DE, 2.77, 
+*** customor PR, 3
+*** engchem ME, 1
+*** agriculture CT, 4
+** least supply
+*** engchem MS, 1, .003
+*** engchem ME, 1, .007
+*** agriculture CT, 4, .007
+*** medinfo DE, 3, .008
+*** socialscience NJ, 1, .009
+** most supply
+*** management CA, 4.26, 138.534
+*** techsoftware CA, 4.65, 123.000
+*** management TX, 4.13, 80.250
+*** mednurse CA, 2.46, 98.86
+*** sales CA, 2.94, 84.613
+** Conclusions
+*** majoring in chem eng in MS, ME will lead to a lot of competition and little job security
+*** agriculture in CT is also competitive
+*** its easier to find a job in tech,nursing, management, or sales with exp
+**** same for management in TX
+*** little competition for entry level science jobs in MT
+*** little competition for doctor postion with exp in HI
+*** machine learning shows that work exp is more important than degree, but only by a little
